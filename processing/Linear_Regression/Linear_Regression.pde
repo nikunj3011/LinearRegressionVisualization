@@ -3,7 +3,6 @@ import java.lang.*;
 ArrayList<PVector> points;    // points which are plotted
 float m=1;                    //slope of the line
 float b=0;                    //y intercept of the line 
-boolean flag = true;          //True for gradient descent and False for least square 
 
 void setup(){
   size(800,800);
