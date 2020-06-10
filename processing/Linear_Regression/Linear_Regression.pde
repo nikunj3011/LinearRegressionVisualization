@@ -7,7 +7,7 @@ float b=0;                    //y intercept of the line
 int flag = 0;                  //True for gradient descent and False for least square 
 
 void setup(){
-  size(600,600);
+  size(680,680);
   background(255);
   points = new ArrayList<PVector>();
 }
